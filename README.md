@@ -9,8 +9,7 @@ Questions:
 Define Software Engineering:
 this is a branch of science that deals with design, development, testing and maintanace of software application
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
-Software Engineering is the application of engineering principles to software development, focusing on systematic, disciplined, and quantifiable approaches to create reliable and efficient software.
+Software Development Life Cycle (SDLC): Software Engineering is the application of engineering principles to software development, focusing on systematic, disciplined, and quantifiable approaches to create reliable and efficient software.
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 Flexibility: Agile is flexible and adaptive to changes; Waterfall is rigid with fixed requirements.
@@ -24,9 +23,8 @@ Requirements engineering plays a crucial role in the software development life c
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
 It facilitates easier management and understanding of complex systems by breaking them down into digestible parts
-Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
-Version Control Systems:
-Unit Testing, System Testing, Integration Testing, and Acceptance Testing. Every testing level is crucial testing for software testing but these four levels of testing are crucial testing for software engineering
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?Unit Testing, System Testing, Integration Testing, and Acceptance Testing. Every testing level is crucial testing for software testing but these four levels of testing are crucial testing for software engineering
+Version Control System: 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
 Version control systems are software tools that help software teams manage changes to source code over time. As development environments have accelerated, version control systems help software teams work faster and smarter.
